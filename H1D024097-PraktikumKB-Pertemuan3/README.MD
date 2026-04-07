@@ -8,7 +8,7 @@ Repositori ini berisi penyelesaian tugas Praktikum KB Pertemuan 3 mengenai pener
 * **Shift Sekarang:** E
 ---
 
-## 📝 Deskripsi Tugas
+## Deskripsi Tugas
 Terdapat dua studi kasus yang diselesaikan dalam praktikum ini:
 
 1. **Studi Kasus 1 (Toko Hewan):** Optimasi stok makanan hewan di "Udin Pet Shop" menggunakan variabel barang terjual, permintaan, harga, dan profit.
@@ -35,7 +35,7 @@ Terdapat dua studi kasus yang diselesaikan dalam praktikum ini:
 * `Studi_Kasus1/` : Source code optimasi stok makanan.
 * `Studi_Kasus2/` : Source code penilaian kepuasan pelayanan.
 
-## 🛠️ Cara Menjalankan
+## Cara Menjalankan
 
 ### 1. Clone Repositori
 ```bash
