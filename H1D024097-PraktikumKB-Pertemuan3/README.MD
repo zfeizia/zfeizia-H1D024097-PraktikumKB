@@ -11,11 +11,48 @@ Repositori ini berisi penyelesaian tugas Praktikum KB Pertemuan 3 mengenai pener
 ## 📝 Deskripsi Tugas
 Terdapat dua studi kasus yang diselesaikan dalam praktikum ini:
 
-1. **Studi Kasus 1 (Toko Hewan):** Optimasi stok makanan hewan di "Udin Pet Shop" menggunakan variabel barang terjual, permintaan, harga, dan profit. [cite: 6, 7, 8]
-2. **Studi Kasus 2 (Pelayanan Masyarakat):** Penilaian tingkat kepuasan pelayanan berdasarkan kejelasan informasi, persyaratan, kemampuan petugas, dan sarana prasarana. [cite: 23, 24, 25]
+1. **Studi Kasus 1 (Toko Hewan):** Optimasi stok makanan hewan di "Udin Pet Shop" menggunakan variabel barang terjual, permintaan, harga, dan profit.
+* Variabel Input: Barang Terjual, Permintaan, Harga Per Item, dan Profit.
+* Variabel Output: Stok Makanan.
+* Contoh Input Uji:
+  a. Barang Terjual: 80 
+  b. Permintaan: 255 
+  c. Harga per Item: Rp 25.000 
+  d. Profit: Rp 3.500.000
+
+2. **Studi Kasus 2 (Pelayanan Masyarakat):** Penilaian tingkat kepuasan pelayanan berdasarkan kejelasan informasi, persyaratan, kemampuan petugas, dan sarana prasarana. 
+* Variabel Input: Kejelasan Informasi, Kejelasan Persyaratan, Kemampuan Petugas, dan Ketersediaan Sarpras.
+* Variabel Output: Kepuasan Pelayanan.
+* Contoh Input Uji:
+  a. Kejelasan Informasi: 80 
+  b. Kejelasan Persyaratan: 60 
+  c. Kemampuan Petugas: 50 
+  d. Ketersediaan Sarpras: 90
 
 ---
 
 ## Struktur Repositori
 * `Studi_Kasus_1/` : Source code optimasi stok makanan.
 * `Studi_Kasus_2/` : Source code penilaian kepuasan pelayanan.
+
+## 🛠️ Cara Menjalankan
+
+### 1. Clone Repositori
+```bash
+git clone https://github.com/username/H1D024097-PRAKTIKUMKB.git
+```
+
+### 2. Pilih Direktori Tugas
+```bash
+cd Pertemuan_3/Studi_Kasus_1
+```
+
+### 3. Jalankan Program
+* Jika menggunakan PHP:
+```bash
+php main.php
+```
+* Jika menggunakan Python:
+```bash
+python main.py
+```
