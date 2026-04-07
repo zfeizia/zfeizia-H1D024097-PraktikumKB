@@ -32,8 +32,8 @@ Terdapat dua studi kasus yang diselesaikan dalam praktikum ini:
 ---
 
 ## Struktur Repositori
-* `Studi_Kasus_1/` : Source code optimasi stok makanan.
-* `Studi_Kasus_2/` : Source code penilaian kepuasan pelayanan.
+* `Studi_Kasus1/` : Source code optimasi stok makanan.
+* `Studi_Kasus2/` : Source code penilaian kepuasan pelayanan.
 
 ## 🛠️ Cara Menjalankan
 
@@ -44,15 +44,15 @@ git clone https://github.com/username/H1D024097-PRAKTIKUMKB.git
 
 ### 2. Pilih Direktori Tugas
 ```bash
-cd Pertemuan_3/Studi_Kasus_1
+cd H1D024097-PraktikumKB-Pertemuan3
 ```
 
 ### 3. Jalankan Program
-* Jika menggunakan PHP:
+* Studi Kasus 1
 ```bash
-php main.php
+python studi_kasus1.py
 ```
-* Jika menggunakan Python:
+* Studi Kasus 2
 ```bash
-python main.py
+python studi_kasus2.py
 ```
