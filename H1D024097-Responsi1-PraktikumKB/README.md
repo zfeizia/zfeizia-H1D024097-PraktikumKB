@@ -1,11 +1,11 @@
 # Responsi 1 - Praktikum Kecerdasan Buatan (KB)
 **Nama:** Feizia  
 **NIM:** H1D024097  
-**Program Studi:** Informatika
+**Shift:** E
 
 ---
 
-## 🌟 Deskripsi Proyek
+## Deskripsi Proyek
 Proyek ini dikembangkan sebagai bagian dari Responsi 1 Praktikum Kecerdasan Buatan. Proyek ini mencakup dua sistem utama yang mengimplementasikan konsep-konsep dasar AI untuk menyelesaikan masalah di dunia nyata:
 
 1.  **Sistem Fuzzy (Penentuan Kelayakan Bansos):** Menggunakan logika fuzzy untuk menentukan tingkat kelayakan rumah tangga dalam menerima bantuan sosial berdasarkan indikator ekonomi.
@@ -13,7 +13,7 @@ Proyek ini dikembangkan sebagai bagian dari Responsi 1 Praktikum Kecerdasan Buat
 
 ---
 
-## 📂 Struktur Proyek
+## Struktur Proyek
 ```text
 H1D024097-Responsi1-PraktikumKB/
 ├── sistem_fuzzy/            # Implementasi Logika Fuzzy
@@ -29,15 +29,14 @@ H1D024097-Responsi1-PraktikumKB/
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
-- **Bahasa Pemrograman:** Python 3.x
+## Teknologi yang Digunakan
+- **Bahasa Pemrograman:** Python 
 - **Framework Web:** Flask
-- **Frontend:** HTML5, CSS3 (Vanilla CSS with Glassmorphism Design), JavaScript
-- **Deployment Ready:** Vercel Configuration Included
-
+- **Frontend:** HTML5, CSS3, JavaScript
+  
 ---
 
-## 🚀 Cara Menjalankan Secara Lokal
+## Cara Menjalankan Secara Lokal
 
 ### 1. Persiapan
 Pastikan Anda sudah menginstal Python di sistem Anda.
@@ -60,10 +59,7 @@ Akses di browser: `http://127.0.0.1:5002`
 
 ---
 
-## 📄 Dokumentasi Detail
+## Dokumentasi Detail
 Untuk penjelasan lebih mendalam mengenai logika dan aturan di setiap sistem, silakan baca:
 - [Dokumentasi Sistem Fuzzy](sistem_fuzzy/README.md)
 - [Dokumentasi Sistem Pakar](sistem_pakar/README.md)
-
----
-*Dibuat dengan ❤️ untuk Praktikum KB 2026*
